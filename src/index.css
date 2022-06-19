@@ -193,3 +193,12 @@ main {
 .container button:hover{
   background-color: #06281e;
 }
+
+.footer{
+  text-align: center;
+  border: none;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 0;
+
+}

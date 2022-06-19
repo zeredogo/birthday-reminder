@@ -12,6 +12,7 @@ function App() {
         <button onClick={() => setPeople([])}>
           clear all
         </button>
+        <p className="footer"><small>Dogo Empire &copy; 2022</small></p>
       </section>
     </main>
   );
