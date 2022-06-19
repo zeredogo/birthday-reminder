@@ -189,3 +189,7 @@ main {
   outline: 1px solid #1aa179;
   cursor: pointer;
 }
+
+.container button:hover{
+  background-color: #06281e;
+}
